@@ -13,6 +13,7 @@ export const ItemCounter = ({ name, quantity }: Props) => {
   };
 
   const handleSubtract = () => {
+    if( count === 1) return;
     setCount(count - 1);
   };
 
