@@ -1,19 +1,11 @@
 {
-<<<<<<< HEAD
   "name": "first-steps",
-=======
-  "name": "introduccion-javascript",
->>>>>>> fd5f265a0b4178b7a9ed492c4e9ea32a4debf393
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-<<<<<<< HEAD
     "build": "tsc -b && vite build",
-=======
-    "build": "vite build",
->>>>>>> fd5f265a0b4178b7a9ed492c4e9ea32a4debf393
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -25,20 +17,13 @@
     "@eslint/js": "^9.25.0",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
-<<<<<<< HEAD
     "@vitejs/plugin-react-swc": "^3.9.0",
-=======
-    "@vitejs/plugin-react": "^4.4.1",
->>>>>>> fd5f265a0b4178b7a9ed492c4e9ea32a4debf393
     "eslint": "^9.25.0",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
-<<<<<<< HEAD
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.30.1",
-=======
->>>>>>> fd5f265a0b4178b7a9ed492c4e9ea32a4debf393
     "vite": "^6.3.5"
   }
 }
